@@ -1,0 +1,16 @@
+C:\Users\berdinas\IdeaProjects\test-acceptance-v2\src\test\java\qa\ma\conf\DriverConfig.java
+C:\Users\berdinas\IdeaProjects\test-acceptance-v2\src\test\java\qa\ma\enums\Gender.java
+C:\Users\berdinas\IdeaProjects\test-acceptance-v2\src\test\java\qa\ma\pageobjects\SignUpServices.java
+C:\Users\berdinas\IdeaProjects\test-acceptance-v2\src\test\java\qa\ma\util\reporting\PhotographerHook.java
+C:\Users\berdinas\IdeaProjects\test-acceptance-v2\src\test\java\qa\ma\enums\Browser.java
+C:\Users\berdinas\IdeaProjects\test-acceptance-v2\src\test\java\qa\ma\models\User.java
+C:\Users\berdinas\IdeaProjects\test-acceptance-v2\src\test\java\qa\ma\util\RandomNumberGenerator.java
+C:\Users\berdinas\IdeaProjects\test-acceptance-v2\src\test\java\qa\ma\tasks\UserSignUp.java
+C:\Users\berdinas\IdeaProjects\test-acceptance-v2\src\test\java\qa\ma\tasks\NavigateTo.java
+C:\Users\berdinas\IdeaProjects\test-acceptance-v2\src\test\java\CucumberTest.java
+C:\Users\berdinas\IdeaProjects\test-acceptance-v2\src\test\java\qa\ma\util\driver\DriverFactory.java
+C:\Users\berdinas\IdeaProjects\test-acceptance-v2\src\test\java\qa\ma\pageobjects\SignUpPageObject.java
+C:\Users\berdinas\IdeaProjects\test-acceptance-v2\src\test\java\qa\ma\util\reporting\TakeScreenshotCondition.java
+C:\Users\berdinas\IdeaProjects\test-acceptance-v2\src\test\java\qa\ma\pageobjects\PageBase.java
+C:\Users\berdinas\IdeaProjects\test-acceptance-v2\src\test\java\qa\ma\builders\data\UserBuilder.java
+C:\Users\berdinas\IdeaProjects\test-acceptance-v2\src\test\java\qa\ma\stepdefinitions\SignUpStepDefs.java

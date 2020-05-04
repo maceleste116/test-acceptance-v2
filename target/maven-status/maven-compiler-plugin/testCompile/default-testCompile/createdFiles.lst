@@ -1,0 +1,17 @@
+qa\ma\tasks\UserSignUp.class
+qa\ma\util\RandomNumberGenerator.class
+qa\ma\builders\data\UserBuilder.class
+qa\ma\util\reporting\TakeScreenshotCondition.class
+qa\ma\enums\Browser.class
+qa\ma\pageobjects\SignUpServices.class
+qa\ma\enums\Gender.class
+qa\ma\pageobjects\SignUpPageObject.class
+qa\ma\models\User$UserBuilder.class
+qa\ma\tasks\NavigateTo.class
+qa\ma\util\reporting\PhotographerHook.class
+qa\ma\pageobjects\PageBase.class
+qa\ma\models\User.class
+qa\ma\conf\DriverConfig.class
+qa\ma\util\driver\DriverFactory.class
+qa\ma\stepdefinitions\SignUpStepDefs.class
+CucumberTest.class
